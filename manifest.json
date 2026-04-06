@@ -3,7 +3,7 @@
   "name": "Show Plugins Shortcut in Sidebar",
   "version": "1.0.0",
   "minAppVersion": "1.0.0",
-  "description": "Adds a community plugins store icon to the left ribbon.",
+  "description": "Adds a puzzle piece icon to the sidebar to open installed community plugins.",
   "author": "sachio222",
   "authorUrl": "https://github.com/sachio222",
   "isDesktopOnly": false
