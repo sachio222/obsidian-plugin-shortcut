@@ -1,0 +1,10 @@
+{
+  "id": "plugin-store-shortcut",
+  "name": "Show Plugins Shortcut in Sidebar",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Adds a community plugins store icon to the left ribbon.",
+  "author": "sachio222",
+  "authorUrl": "https://github.com/sachio222",
+  "isDesktopOnly": false
+}
